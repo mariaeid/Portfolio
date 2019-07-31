@@ -1,4 +1,4 @@
-My portfolio created with React
+My portfolio created with React - ongoing
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
